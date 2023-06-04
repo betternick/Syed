@@ -2,6 +2,7 @@
   width: 100px; /* Adjust as needed */
   height: 100px; /* Adjust as needed */
   border-radius: 50%; /* This makes it circular */
+  border: 2px solid rgb(248, 244, 241);
   object-fit: cover; /* This makes the image to fit in the circle */
 }
 

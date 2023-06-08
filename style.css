@@ -82,3 +82,7 @@
 .grayscale {
   filter: grayscale(100%);
 }
+
+html {
+  overflow-y: scroll;
+}
